@@ -1,0 +1,128 @@
+﻿Build1=Default,b4a.example
+File1=1.png
+File10=layoutCreateAccount.bal
+File11=layoutDashboard.bal
+File12=layoutHorizontals.bal
+File13=layoutLogin.bal
+File14=layoutNotes.bal
+File15=layoutQuotes.bal
+File16=layoutSaveContacts.bal
+File17=layoutScroll.bal
+File18=layoutSettings.bal
+File19=layoutUpdateContacts.bal
+File2=2.png
+File20=light bulb.png
+File21=male user.png
+File22=musicplay.bal
+File23=mydb.db
+File24=Pause.png
+File25=phone sign.png
+File26=Play.png
+File27=Quote Left.png
+File28=quote.png
+File29=Repeat.png
+File3=3.png
+File30=Skip to Start.png
+File31=wallpapaer.jpg
+File4=blue and yellow settings gears.png
+File5=car1.jpg
+File6=End.png
+File7=glowing light bulb.png
+File8=Layout.bal
+File9=layoutContacts.bal
+FileGroup1=Default Group
+FileGroup10=Default Group
+FileGroup11=Default Group
+FileGroup12=Default Group
+FileGroup13=Default Group
+FileGroup14=Default Group
+FileGroup15=Default Group
+FileGroup16=Default Group
+FileGroup17=Default Group
+FileGroup18=Default Group
+FileGroup19=Default Group
+FileGroup2=Default Group
+FileGroup20=Default Group
+FileGroup21=Default Group
+FileGroup22=Default Group
+FileGroup23=Default Group
+FileGroup24=Default Group
+FileGroup25=Default Group
+FileGroup26=Default Group
+FileGroup27=Default Group
+FileGroup28=Default Group
+FileGroup29=Default Group
+FileGroup3=Default Group
+FileGroup30=Default Group
+FileGroup31=Default Group
+FileGroup4=Default Group
+FileGroup5=Default Group
+FileGroup6=Default Group
+FileGroup7=Default Group
+FileGroup8=Default Group
+FileGroup9=Default Group
+Group=Default Group
+Library1=core
+Library2=sql
+Library3=xui
+ManifestCode='This code will be applied to the manifest file during compilation.~\n~'You do not need to modify it in most cases.~\n~'See this link for for more information: https://www.b4x.com/forum/showthread.php?p=78136~\n~AddManifestText(~\n~<uses-sdk android:minSdkVersion="21" android:targetSdkVersion="33"/>~\n~<supports-screens android:largeScreens="true" ~\n~    android:normalScreens="true" ~\n~    android:smallScreens="true" ~\n~    android:anyDensity="true"/>)~\n~SetApplicationAttribute(android:icon, "@drawable/icon")~\n~SetApplicationAttribute(android:label, "$LABEL$")~\n~CreateResourceFromFile(Macro, Themes.LightTheme)~\n~'End of default text.
+Module1=mdlContactsCreate
+Module2=mdlCreate
+Module3=mdlDashboard
+Module4=mdlLogin
+Module5=mdlQuotes
+Module6=mdlSettings
+Module7=mdlUpdateContacts
+Module8=mdlViewContacts
+Module9=Starter
+NumberOfFiles=31
+NumberOfLibraries=3
+NumberOfModules=9
+Version=12.8
+@EndOfDesignText@
+#Region  Project Attributes 
+	#ApplicationLabel: B4A Example
+	#VersionCode: 1
+	#VersionName: 
+	'SupportedOrientations possible values: unspecified, landscape or portrait.
+	#SupportedOrientations: unspecified
+	#CanInstallToExternalStorage: False
+#End Region
+
+#Region  Activity Attributes 
+	#FullScreen: False
+	#IncludeTitle: False
+#End Region
+
+Sub Process_Globals
+	'These global variables will be declared once when the application starts.
+	'These variables can be accessed from all modules.
+	Private xui As XUI
+End Sub
+
+Sub Globals
+	'These global variables will be redeclared each time the activity is created.
+	Private btnCreate As Button
+	Private btnLogin As Button
+End Sub
+
+Sub Activity_Create(FirstTime As Boolean)
+	Activity.LoadLayout("Layout")
+End Sub
+
+Sub Activity_Resume
+
+End Sub
+
+Sub Activity_Pause (UserClosed As Boolean)
+
+End Sub
+
+
+Private Sub btnCreate_Click
+	StartActivity(mdlCreate)
+End Sub
+
+Private Sub btnLogin_Click
+	StartActivity(mdlLogin)
+End Sub

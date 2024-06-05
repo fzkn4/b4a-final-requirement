@@ -1,0 +1,85 @@
+--release
+--output
+C:\Users\Fzkn4\Music\Fzkn4\B4A Projects\b4aFinals\Objects
+--lib
+C:\Android\resource11\platforms\android-33\android.jar
+C:\Android\resource11\tools\..\extras\b4a_local\unpacked-b4ashared-63837448956000\dex_v1\b4ashared.zip
+C:\Android\resource11\tools\..\extras\b4a_local\unpacked-debug-63837448958000\dex_v1\debug.zip
+C:\Android\resource11\tools\..\extras\b4a_local\unpacked-core-63837448958000\dex_v1\core.zip
+C:\Android\resource11\tools\..\extras\b4a_local\unpacked-sql-63837448958000\dex_v1\sql.zip
+C:\Android\resource11\tools\..\extras\b4a_local\unpacked-xui-63837448958000\dex_v1\xui.zip
+C:\Android\resource11\tools\..\extras\b4a_local\unpacked-remotelogger-63837448958000\dex_v1\remotelogger.zip
+C:\Users\Fzkn4\Music\Fzkn4\B4A Projects\b4aFinals\Objects\dexed\b4a\example\main$1.dex
+C:\Users\Fzkn4\Music\Fzkn4\B4A Projects\b4aFinals\Objects\dexed\b4a\example\main$B4AMenuItemsClickListener.dex
+C:\Users\Fzkn4\Music\Fzkn4\B4A Projects\b4aFinals\Objects\dexed\b4a\example\main$HandleKeyDelayed.dex
+C:\Users\Fzkn4\Music\Fzkn4\B4A Projects\b4aFinals\Objects\dexed\b4a\example\main$ResumeMessage.dex
+C:\Users\Fzkn4\Music\Fzkn4\B4A Projects\b4aFinals\Objects\dexed\b4a\example\main$WaitForLayout.dex
+C:\Users\Fzkn4\Music\Fzkn4\B4A Projects\b4aFinals\Objects\dexed\b4a\example\main.dex
+C:\Users\Fzkn4\Music\Fzkn4\B4A Projects\b4aFinals\Objects\dexed\b4a\example\mdlcontactscreate$1.dex
+C:\Users\Fzkn4\Music\Fzkn4\B4A Projects\b4aFinals\Objects\dexed\b4a\example\mdlcontactscreate$B4AMenuItemsClickListener.dex
+C:\Users\Fzkn4\Music\Fzkn4\B4A Projects\b4aFinals\Objects\dexed\b4a\example\mdlcontactscreate$HandleKeyDelayed.dex
+C:\Users\Fzkn4\Music\Fzkn4\B4A Projects\b4aFinals\Objects\dexed\b4a\example\mdlcontactscreate$ResumeMessage.dex
+C:\Users\Fzkn4\Music\Fzkn4\B4A Projects\b4aFinals\Objects\dexed\b4a\example\mdlcontactscreate$WaitForLayout.dex
+C:\Users\Fzkn4\Music\Fzkn4\B4A Projects\b4aFinals\Objects\dexed\b4a\example\mdlcontactscreate.dex
+C:\Users\Fzkn4\Music\Fzkn4\B4A Projects\b4aFinals\Objects\dexed\b4a\example\mdlcreate$1.dex
+C:\Users\Fzkn4\Music\Fzkn4\B4A Projects\b4aFinals\Objects\dexed\b4a\example\mdlcreate$B4AMenuItemsClickListener.dex
+C:\Users\Fzkn4\Music\Fzkn4\B4A Projects\b4aFinals\Objects\dexed\b4a\example\mdlcreate$HandleKeyDelayed.dex
+C:\Users\Fzkn4\Music\Fzkn4\B4A Projects\b4aFinals\Objects\dexed\b4a\example\mdlcreate$ResumeMessage.dex
+C:\Users\Fzkn4\Music\Fzkn4\B4A Projects\b4aFinals\Objects\dexed\b4a\example\mdlcreate$WaitForLayout.dex
+C:\Users\Fzkn4\Music\Fzkn4\B4A Projects\b4aFinals\Objects\dexed\b4a\example\mdlcreate.dex
+C:\Users\Fzkn4\Music\Fzkn4\B4A Projects\b4aFinals\Objects\dexed\b4a\example\mdldashboard$1.dex
+C:\Users\Fzkn4\Music\Fzkn4\B4A Projects\b4aFinals\Objects\dexed\b4a\example\mdldashboard$B4AMenuItemsClickListener.dex
+C:\Users\Fzkn4\Music\Fzkn4\B4A Projects\b4aFinals\Objects\dexed\b4a\example\mdldashboard$HandleKeyDelayed.dex
+C:\Users\Fzkn4\Music\Fzkn4\B4A Projects\b4aFinals\Objects\dexed\b4a\example\mdldashboard$ResumeMessage.dex
+C:\Users\Fzkn4\Music\Fzkn4\B4A Projects\b4aFinals\Objects\dexed\b4a\example\mdldashboard$WaitForLayout.dex
+C:\Users\Fzkn4\Music\Fzkn4\B4A Projects\b4aFinals\Objects\dexed\b4a\example\mdldashboard.dex
+C:\Users\Fzkn4\Music\Fzkn4\B4A Projects\b4aFinals\Objects\dexed\b4a\example\mdllogin$1.dex
+C:\Users\Fzkn4\Music\Fzkn4\B4A Projects\b4aFinals\Objects\dexed\b4a\example\mdllogin$B4AMenuItemsClickListener.dex
+C:\Users\Fzkn4\Music\Fzkn4\B4A Projects\b4aFinals\Objects\dexed\b4a\example\mdllogin$HandleKeyDelayed.dex
+C:\Users\Fzkn4\Music\Fzkn4\B4A Projects\b4aFinals\Objects\dexed\b4a\example\mdllogin$ResumeMessage.dex
+C:\Users\Fzkn4\Music\Fzkn4\B4A Projects\b4aFinals\Objects\dexed\b4a\example\mdllogin$WaitForLayout.dex
+C:\Users\Fzkn4\Music\Fzkn4\B4A Projects\b4aFinals\Objects\dexed\b4a\example\mdllogin.dex
+C:\Users\Fzkn4\Music\Fzkn4\B4A Projects\b4aFinals\Objects\dexed\b4a\example\mdlquotes$1.dex
+C:\Users\Fzkn4\Music\Fzkn4\B4A Projects\b4aFinals\Objects\dexed\b4a\example\mdlquotes$B4AMenuItemsClickListener.dex
+C:\Users\Fzkn4\Music\Fzkn4\B4A Projects\b4aFinals\Objects\dexed\b4a\example\mdlquotes$HandleKeyDelayed.dex
+C:\Users\Fzkn4\Music\Fzkn4\B4A Projects\b4aFinals\Objects\dexed\b4a\example\mdlquotes$ResumeMessage.dex
+C:\Users\Fzkn4\Music\Fzkn4\B4A Projects\b4aFinals\Objects\dexed\b4a\example\mdlquotes$WaitForLayout.dex
+C:\Users\Fzkn4\Music\Fzkn4\B4A Projects\b4aFinals\Objects\dexed\b4a\example\mdlquotes.dex
+C:\Users\Fzkn4\Music\Fzkn4\B4A Projects\b4aFinals\Objects\dexed\b4a\example\mdlsettings$1.dex
+C:\Users\Fzkn4\Music\Fzkn4\B4A Projects\b4aFinals\Objects\dexed\b4a\example\mdlsettings$B4AMenuItemsClickListener.dex
+C:\Users\Fzkn4\Music\Fzkn4\B4A Projects\b4aFinals\Objects\dexed\b4a\example\mdlsettings$HandleKeyDelayed.dex
+C:\Users\Fzkn4\Music\Fzkn4\B4A Projects\b4aFinals\Objects\dexed\b4a\example\mdlsettings$ResumeMessage.dex
+C:\Users\Fzkn4\Music\Fzkn4\B4A Projects\b4aFinals\Objects\dexed\b4a\example\mdlsettings$WaitForLayout.dex
+C:\Users\Fzkn4\Music\Fzkn4\B4A Projects\b4aFinals\Objects\dexed\b4a\example\mdlsettings.dex
+C:\Users\Fzkn4\Music\Fzkn4\B4A Projects\b4aFinals\Objects\dexed\b4a\example\mdlupdatecontacts$1.dex
+C:\Users\Fzkn4\Music\Fzkn4\B4A Projects\b4aFinals\Objects\dexed\b4a\example\mdlupdatecontacts$B4AMenuItemsClickListener.dex
+C:\Users\Fzkn4\Music\Fzkn4\B4A Projects\b4aFinals\Objects\dexed\b4a\example\mdlupdatecontacts$HandleKeyDelayed.dex
+C:\Users\Fzkn4\Music\Fzkn4\B4A Projects\b4aFinals\Objects\dexed\b4a\example\mdlupdatecontacts$ResumeMessage.dex
+C:\Users\Fzkn4\Music\Fzkn4\B4A Projects\b4aFinals\Objects\dexed\b4a\example\mdlupdatecontacts$WaitForLayout.dex
+C:\Users\Fzkn4\Music\Fzkn4\B4A Projects\b4aFinals\Objects\dexed\b4a\example\mdlupdatecontacts.dex
+C:\Users\Fzkn4\Music\Fzkn4\B4A Projects\b4aFinals\Objects\dexed\b4a\example\mdlviewcontacts$1.dex
+C:\Users\Fzkn4\Music\Fzkn4\B4A Projects\b4aFinals\Objects\dexed\b4a\example\mdlviewcontacts$B4AMenuItemsClickListener.dex
+C:\Users\Fzkn4\Music\Fzkn4\B4A Projects\b4aFinals\Objects\dexed\b4a\example\mdlviewcontacts$HandleKeyDelayed.dex
+C:\Users\Fzkn4\Music\Fzkn4\B4A Projects\b4aFinals\Objects\dexed\b4a\example\mdlviewcontacts$ResumeMessage.dex
+C:\Users\Fzkn4\Music\Fzkn4\B4A Projects\b4aFinals\Objects\dexed\b4a\example\mdlviewcontacts$WaitForLayout.dex
+C:\Users\Fzkn4\Music\Fzkn4\B4A Projects\b4aFinals\Objects\dexed\b4a\example\mdlviewcontacts.dex
+C:\Users\Fzkn4\Music\Fzkn4\B4A Projects\b4aFinals\Objects\dexed\b4a\example\R$drawable.dex
+C:\Users\Fzkn4\Music\Fzkn4\B4A Projects\b4aFinals\Objects\dexed\b4a\example\R$style.dex
+C:\Users\Fzkn4\Music\Fzkn4\B4A Projects\b4aFinals\Objects\dexed\b4a\example\R.dex
+C:\Users\Fzkn4\Music\Fzkn4\B4A Projects\b4aFinals\Objects\dexed\b4a\example\starter$1.dex
+C:\Users\Fzkn4\Music\Fzkn4\B4A Projects\b4aFinals\Objects\dexed\b4a\example\starter$2.dex
+C:\Users\Fzkn4\Music\Fzkn4\B4A Projects\b4aFinals\Objects\dexed\b4a\example\starter$starter_BR.dex
+C:\Users\Fzkn4\Music\Fzkn4\B4A Projects\b4aFinals\Objects\dexed\b4a\example\starter.dex
+C:\Users\Fzkn4\Music\Fzkn4\B4A Projects\b4aFinals\Objects\dexed\b4a\example\designerscripts\LS_layout.dex
+C:\Users\Fzkn4\Music\Fzkn4\B4A Projects\b4aFinals\Objects\dexed\b4a\example\designerscripts\LS_layoutcontacts.dex
+C:\Users\Fzkn4\Music\Fzkn4\B4A Projects\b4aFinals\Objects\dexed\b4a\example\designerscripts\LS_layoutcreateaccount.dex
+C:\Users\Fzkn4\Music\Fzkn4\B4A Projects\b4aFinals\Objects\dexed\b4a\example\designerscripts\LS_layoutdashboard.dex
+C:\Users\Fzkn4\Music\Fzkn4\B4A Projects\b4aFinals\Objects\dexed\b4a\example\designerscripts\LS_layouthorizontals.dex
+C:\Users\Fzkn4\Music\Fzkn4\B4A Projects\b4aFinals\Objects\dexed\b4a\example\designerscripts\LS_layoutlogin.dex
+C:\Users\Fzkn4\Music\Fzkn4\B4A Projects\b4aFinals\Objects\dexed\b4a\example\designerscripts\LS_layoutnotes.dex
+C:\Users\Fzkn4\Music\Fzkn4\B4A Projects\b4aFinals\Objects\dexed\b4a\example\designerscripts\LS_layoutquotes.dex
+C:\Users\Fzkn4\Music\Fzkn4\B4A Projects\b4aFinals\Objects\dexed\b4a\example\designerscripts\LS_layoutsavecontacts.dex
+C:\Users\Fzkn4\Music\Fzkn4\B4A Projects\b4aFinals\Objects\dexed\b4a\example\designerscripts\LS_layoutscroll.dex
+C:\Users\Fzkn4\Music\Fzkn4\B4A Projects\b4aFinals\Objects\dexed\b4a\example\designerscripts\LS_layoutsettings.dex
+C:\Users\Fzkn4\Music\Fzkn4\B4A Projects\b4aFinals\Objects\dexed\b4a\example\designerscripts\LS_layoutupdatecontacts.dex
+C:\Users\Fzkn4\Music\Fzkn4\B4A Projects\b4aFinals\Objects\dexed\b4a\example\designerscripts\LS_musicplay.dex
